@@ -14,7 +14,7 @@ Example 2 is s18magd150lab07_veloffe
 In example 2 I use PVector to make it rain. My drawing is an example of rain on a sunny day. Using a different class for the doccument I was able to create 100 rain drops. 
 
 ## Example 3
-[lab 01 example](https://github.com/veloffem12/MAGD-150-Assignments-Final/blob/gh-pages/s18magd150lab01_veloffe.pde
+[lab 01 example](https://github.com/veloffem12/MAGD-150-Assignments-Final/blob/gh-pages/s18magd150lab01_veloffe.pde)
 Example 3 is s18magd150lab01_veloffe
 In example 3 I learned how to use gray scale as well as how to draw different shapes. My drawing was trying to make a simple example of the solor system. 
 
